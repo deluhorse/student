@@ -12,7 +12,7 @@ supervisor==3.3.1
 pycrypto==2.6.1
 redis==2.10.3
 rsa==3.4.2
-urllib3==1.21.1
+urllib3==1.24.2
 xlrd==1.0.0
 xlwt==1.2.0
 xmltodict==0.11.0
